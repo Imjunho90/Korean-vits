@@ -6,7 +6,7 @@
 
 [VITS](https://arxiv.org/abs/2106.06103)(Variational Inference with adversarial learning for end-to-end Text-to-Speech)를 한국어 단일 화자 데이터셋인 KSS(Korean Single Speaker)로 학습한 TTS 모델입니다.
 
-## 📊 Dataset
+## Dataset
 
 
 | 항목 | 내용 |
@@ -19,10 +19,11 @@
 
 
  
-## 📉 Training Loss
+## Training Loss
  
 ![Training Loss](asset/training_curves.png)
 
+## Training Environment
 | 항목 | 내용 |
 |------|------|
 | GPU | NVIDIA RTX 4090 |
@@ -44,4 +45,3 @@ python train.py -c configs/kss_base.json -m kss_base
 * [VITS 공식 레포지토리](https://github.com/jaywalnut310/vits)
 * [KSS 데이터셋 다운로드](https://www.kaggle.com/datasets/bryanpark/korean-single-speaker-speech-dataset)
 * [논문: Variational Inference with adversarial learning for end-to-end Text-to-Speech](https://arxiv.org/abs/2106.06103)# Korean-vits
-# Korean-vits
