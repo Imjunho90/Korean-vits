@@ -21,7 +21,7 @@
  
 ## 📉 Training Loss
  
-![Training Loss](assets/training_curves.png)
+![Training Loss](asset/training_curves.png)
 
 | 항목 | 내용 |
 |------|------|
